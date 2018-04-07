@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagemView.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagem.FrmLinguagem.resources
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagem.FrmPrincipal.resources
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagem.Properties.Resources.resources
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagemView.csproj.GenerateResource.Cache
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagemView.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\bin\Debug\ProjLinguagem.exe.config
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\bin\Debug\ProjLinguagem.exe
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\bin\Debug\ProjLinguagem.pdb
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\bin\Debug\Controle.dll
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\bin\Debug\Entidade.dll
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\bin\Debug\Controle.pdb
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\bin\Debug\Entidade.pdb
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagem.exe
+C:\Users\aluno\source\repos\ProjLinguagem\ProjLinguagem\obj\Debug\ProjLinguagem.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjLinguagemView", "ProjLinguagem\ProjLinguagemView.csproj", "{E9FA9FD8-5845-44FF-9F87-55889BE6D89B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidade", "Entidade\Entidade.csproj", "{66BF4632-5D05-42B9-9E94-07BE13B2229B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controle", "Controle\Controle.csproj", "{673F91AB-D428-4E49-8F72-0315E3F4B0D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9FA9FD8-5845-44FF-9F87-55889BE6D89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9FA9FD8-5845-44FF-9F87-55889BE6D89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9FA9FD8-5845-44FF-9F87-55889BE6D89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9FA9FD8-5845-44FF-9F87-55889BE6D89B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BF4632-5D05-42B9-9E94-07BE13B2229B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BF4632-5D05-42B9-9E94-07BE13B2229B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BF4632-5D05-42B9-9E94-07BE13B2229B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BF4632-5D05-42B9-9E94-07BE13B2229B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673F91AB-D428-4E49-8F72-0315E3F4B0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673F91AB-D428-4E49-8F72-0315E3F4B0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673F91AB-D428-4E49-8F72-0315E3F4B0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673F91AB-D428-4E49-8F72-0315E3F4B0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56306EE6-0055-4A2D-A326-D61BCCD56F89}
+	EndGlobalSection
+EndGlobal

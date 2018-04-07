@@ -1,0 +1,8 @@
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\bin\Debug\Controle.dll
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\bin\Debug\Entidade.dll
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\bin\Debug\Entidade.pdb
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\obj\Debug\Controle.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\obj\Debug\Controle.dll
+C:\Users\aluno\source\repos\ProjLinguagem\Controle\obj\Debug\Controle.pdb
